@@ -1,3 +1,7 @@
 # Slides
 
-If you have created slides to use with this lesson plan, please provide a link to them within this Readme file and upload the files in this folder if needed.
+If you wish to create slides using the preferred format, go to the [SHOWER.md](repo-template/slides/SHOWER.md) file for information on how to do that.
+
+If you have created slides to use with this lesson plan using other formats (such as PowerPoint or Google Slides), please either provide a link to them within this README file and upload the files in this folder if needed.
+
+## Contributor Slide Resources
