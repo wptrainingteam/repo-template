@@ -8,12 +8,12 @@ A short paragraph explaining what is covered in the lesson plan. This should be 
 
 It’s recommended that you include a bulleted list of objective(s) for each lesson plan. Objectives should be worded as actions that the student can do once they’ve finished. See [Bloom's Taxonomy of Action Verbs](http://www.fresnostate.edu/academics/oie/documents/assesments/Blooms%20Level.pdf) (PDF) as a reference. Avoid using words like "know," "understand," "be introduced to," etc.
 
-**Correct**
+**Good Example**
 
 Students will be able to:
 *   Identify the files required to make a theme.
 
-**Incorrect**
+**Not-So-Good Example**
 
 Students will:
 *   Know the files required to make a theme. (How can we tell they know?)
