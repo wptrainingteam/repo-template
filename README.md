@@ -58,8 +58,8 @@ Are there any skills that will help participants better understand the lesson pl
 
 _For example:_
 
-*   Have installed WordPress
-*   Have logged into the WordPress Dashboard
+*   Experience with HTML and CSS
+*   Completed the Basic WordPress Concepts lesson
 
 ## Readiness Questions
 
@@ -67,12 +67,12 @@ A list of questions for participants to see if they have the background and skil
 
 _For example:_
 
-*   Have you ever used the WordPress editor?
+*   Do you want to makes changes to your theme yourself?
 *   Do you know how to write CSS?
 
 ## Materials Needed
 
-A list of files or other materials the instructor will need to teach the lesson.
+A list of files, resources, equipment, or other materials the instructor will need to teach the lesson.
 
 _For example:_
 
@@ -140,6 +140,11 @@ _For example:_
 ## Additional Resources
 
 An optional section which can contain a list of resources that the instructor can use to get more information on the topic.
+
+_For example:_
+
+* Link to information on the Codex
+* Theme Review Team's Handbook
 
 ## Example Lesson
 
