@@ -85,7 +85,7 @@ A list of any handy tips or other information for the instructor.
 
 _For example:_
 
-*   Students may need to download the TwentySixteen theme before beginning
+*   Participants may need to download the TwentySixteen theme before beginning
 
 ## Have You Thought About...?
 
