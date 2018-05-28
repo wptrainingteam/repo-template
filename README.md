@@ -2,25 +2,22 @@
 
 ## Description
 
-A short paragraph explaining what is covered in the lesson plan. This should be text that can be copied and used in a meetup or workshop description.
+A short paragraph explaining what is covered in the lesson plan.
+
+> This should be text that can be copied and used in a meetup or workshop description.
 
 ## Objectives
 
-It’s recommended that you include a bulleted list of objective(s) for each lesson plan. Objectives should be worded as actions that the student can do once they’ve finished. See [Bloom's Taxonomy of Action Verbs](http://www.fresnostate.edu/academics/oie/documents/assesments/Blooms%20Level.pdf) (PDF) as a reference. Avoid using words like "know," "understand," "be introduced to," etc.
+After this lesson, participants will be able to:
 
-**Good Example**
+* Objective 1
+* Objective 2
 
-Students will be able to:
-*   Identify the files required to make a theme.
+> It’s required that you include a bulleted list of objective(s) for each lesson plan. Objectives should be worded as actions that the participant can do once they’ve finished. See [Bloom's Taxonomy of Action Verbs](http://www.fresnostate.edu/academics/oie/documents/assesments/Blooms%20Level.pdf) (PDF) as a reference. Avoid using words like "know," "understand," "be introduced to," etc.
 
-**Not-So-Good Example**
+## Target Audience
 
-Students will:
-*   Know the files required to make a theme. (How can we tell they know?)
-
-## Audience
-
-Who is this lesson intended for? What interests/skills would they bring?
+Who is this lesson intended for? What interests/skills would they bring? Choose all that apply.
 
 * [ ] Users
 * [ ] Designers
@@ -28,18 +25,18 @@ Who is this lesson intended for? What interests/skills would they bring?
 * [ ] Speakers
 * [ ] All
 
-## Level
+## Experience Level
 
-How much experience would the student need to get the most from this lesson?
+How much experience would a participant need to get the most from this lesson?
 
 * [ ] Beginner
 * [ ] Intermediate
 * [ ] Advanced
 * [ ] Any
 
-## Teaching Strategies
+## Type of Instruction
 
-How will you approach teaching this lesson plan? Choose all that apply.
+Which strategies will be used for this lesson plan? Choose all that apply.
 
 * [ ] Demonstration
 * [ ] Discussion
@@ -57,42 +54,66 @@ ____ minutes
 
 ## Prerequisite Skills
 
-A bulleted list of skills students require to learn and understand the lesson plan:
+Are there any skills that will help participants better understand the lesson plan?
 
-*   List of skills
+_For example:_
+
+*   Have installed WordPress
+*   Have logged into the WordPress Dashboard
 
 ## Readiness Questions
 
-A list of questions for students to see if they have the background and skills necessary to learn and understand the lesson.
+A list of questions for participants to see if they have the background and skills necessary to learn and understand the lesson.
 
-For example:
+_For example:_
 
 *   Have you ever used the WordPress editor?
 *   Do you know how to write CSS?
 
-## Teaching Materials
+## Materials Needed
 
-A bulleted list of linked files/materials the instructor needs to teach the lesson plan.
+A list of files or other materials the instructor will need to teach the lesson.
 
-*   [Links to download files](#)
+_For example:_
 
-## Teacher Notes
+*   A local install of WordPress
+*   The files for the TwentySixteen theme
 
-A bulleted list of any handy tips or information for the instructor.
+## Notes for the Instructor
 
-*   Tips teachers may want to know
+A list of any handy tips or other information for the instructor.
+
+_For example:_
+
+*   Students may need to download the TwentySixteen theme before beginning
+
+## Have You Thought About...?
+
+What could present challenges to delivering this lesson? Is there anything that can be done in advance to prepare for those challenges?
+
+_For example:_
+
+*  What if there’s no internet available?
+*  What if there’s no projector available?
+*  What if a participant doesn’t has a WordPress site to work with?
+*  What if there aren’t enough computers for everyone?
+*  What if no one has the prerequisite skills? What if there are different opinions about the topic?
 
 ## Lesson Overview
 
 The plan of the lesson. Outline form works well.
 
-* Start with this
-* Then do this
-* Move on to this
+_For example:_
+
+* Talk about what a theme is
+* Demonstrate how to install and activate a theme
+* Practice exercises to have participants find and install a theme on their own site
 
 ## Exercises
 
-These are short or specific activities that help students practice certain components of the lesson. They should not be fully scripted exercises, but rather something that students could do on their own. For example, you can create an exercise based on one step of the Exemplar.
+These are short or specific activities that help participants practice certain components of the lesson. They should not be fully scripted exercises, but rather something that participants could do on their own. For example, you can create an exercise based on one step of the Example Lesson.
+
+_For example:_
 
 **Exercise name**
 
@@ -101,19 +122,11 @@ Short description of what the exercise does and what skills or knowledge it rein
 *   Short point or step of the exercise
 *   And another one
 
-## How Will You Handle...?
-
-Address anything that could present challenges to delivering this lesson. For example:
-
-*  What if there’s no internet available?
-*  What if there’s no projector available?
-*  What if a student doesn’t has a WordPress site to work with?
-*  What if there aren’t enough computers for everyone?
-*  What if no one has the prerequisite skills? What if there are different opinions about the topic?
-
 ## Assessment
 
-A few questions to ask students to evaluate their retention of the material presented.
+A few questions to ask participants to evaluate their retention of the material presented.
+
+_For example:_
 
 **Write out the question.**
 
@@ -128,10 +141,10 @@ A few questions to ask students to evaluate their retention of the material pres
 
 An optional section which can contain a list of resources that the instructor can use to get more information on the topic.
 
-## Exemplar
+## Example Lesson
 
-A sample of how the lesson plan can be implemented. Written in script form as an example of how an instructor might use this lesson plan at an event with screenshots and instructions (if necessary).
+An example of how the lesson plan can be implemented. Written in script form as one possible way an instructor might use this lesson plan at an event, with screenshots and instructions if necessary.
 
-### Section Heading for Exemplar
+### Section Heading for Example Lesson
 
-You will likely need to break this down into multiple sections.
+You will likely need to break the Example Lesson down into multiple sections.

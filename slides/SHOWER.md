@@ -11,15 +11,14 @@
 
 ## Quick Start
 
-1. Download and unzip [template archive](http://shwr.me/shower.zip)
+1. Download and unzip [template archive](https://github.com/JulieKuehl/wptrainingteam.github.io/raw/master/shower/wordpress-training-team-slides.zip)
 2. Open `index.html` and start creating your presentation
 
-## Usage Examples
+## Documentation
 
-- [Inhuman UI](https://pepelsbey.net/pres/inhuman-ui/)
-- [My Vanilla CSS](https://pepelsbey.net/pres/vanilla-css/)
-- [I’m in IoT](https://pepelsbey.net/pres/im-in-iot/)
-- [Enough Bricks](https://pepelsbey.net/pres/enough-bricks/)
+- [List of Features (reference for building slides)](https://github.com/shower/shower/blob/master/docs/features.md)
+- [Printing the Slides](https://github.com/shower/shower/blob/master/docs/printing.md)
+- [Keyboard Shortcuts (reference for presenting slides)](https://github.com/shower/shower/blob/master/docs/shortcuts.md)
 
 ## Browser Support
 
