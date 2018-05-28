@@ -123,10 +123,10 @@ A few questions to ask students to evaluate their retention of the material pres
 
 An optional section which can contain a list of resources that the instructor can use to get more information on the topic.
 
-## Exemplar
+## Example Lesson
 
-A sample of how the lesson plan can be implemented. Written in script form as an example of how an instructor might use this lesson plan at an event with screenshots and instructions (if necessary).
+An example of how the lesson plan can be implemented. Written in script form as one possible way an instructor might use this lesson plan at an event with screenshots and instructions (if necessary).
 
-### Section Heading for Exemplar
+### Section Heading for Example Lesson
 
 You will likely need to break this down into multiple sections.
