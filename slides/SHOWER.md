@@ -11,7 +11,7 @@
 
 ## Quick Start
 
-1. Download and unzip [template archive](http://shwr.me/shower.zip)
+1. Download and unzip [template archive](https://github.com/JulieKuehl/wptrainingteam.github.io/raw/master/shower/wordpress-training-team-slides.zip)
 2. Open `index.html` and start creating your presentation
 
 ## Documentation
