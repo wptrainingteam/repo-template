@@ -64,7 +64,6 @@ Participants will get the most from this lesson if they have familiarity with:
 > *   Experience with HTML and CSS
 > *   Completed the Basic WordPress Concepts lesson
 
-
 ## Readiness Questions
 
 * Question 1
@@ -165,6 +164,11 @@ Short description of what the exercise does and what skills or knowledge it rein
 >
 > * Link to information on the Codex
 > * Theme Review Team's Handbook
+
+_For example:_
+
+* Link to information on the Codex
+* Theme Review Team's Handbook
 
 ## Example Lesson
 
