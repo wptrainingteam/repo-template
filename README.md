@@ -1,14 +1,14 @@
 # Repo Structure and Lesson Plan Template
 
+> Please remove all blockquote comments such as this before publishing.
+
 ## Description
 
-A short paragraph explaining what is covered in the lesson plan.
-
-> This should be text that can be copied and used in a meetup or workshop description.
+> A short paragraph explaining what is covered in the lesson plan. This should be text that can be copied and used in a meetup or workshop description.
 
 ## Objectives
 
-After this lesson, participants will be able to:
+After completing this lesson, participants will be able to:
 
 * Objective 1
 * Objective 2
@@ -54,66 +54,82 @@ ____ minutes
 
 ## Prerequisite Skills
 
-Are there any skills that will help participants better understand the lesson plan?
+Participants will get the most from this lesson if they have familiarity with:
 
-_For example:_
+* Skill 1
+* Skill 2
 
-*   Experience with HTML and CSS
-*   Completed the Basic WordPress Concepts lesson
+> _For example:_
+>
+> *   Experience with HTML and CSS
+> *   Completed the Basic WordPress Concepts lesson
 
 ## Readiness Questions
 
-A list of questions for participants to see if they have the background and skills necessary to learn and understand the lesson.
+* Question 1
+* Question 2
 
-_For example:_
-
-*   Do you want to makes changes to your theme yourself?
-*   Do you know how to write CSS?
+> A list of questions for participants to see if they have the background and skills necessary to learn and understand the lesson.
+>
+> _For example:_
+>
+> *   Do you want to makes changes to your theme yourself?
+> *   Do you know how to write CSS?
 
 ## Materials Needed
 
-A list of files, resources, equipment, or other materials the instructor will need to teach the lesson.
+* Item 1
+* Item 2
 
-_For example:_
-
-*   A local install of WordPress
-*   The files for the TwentySixteen theme
+> A list of files, resources, equipment, or other materials the instructor will need to teach the lesson.
+>
+> _For example:_
+>
+> *   A local install of WordPress
+> *   The files for the TwentySixteen theme
+> *   [Slides](https://rawgit.com/wptrainingteam/repo-name/dev/slides/index.html) (included in this repo)
 
 ## Notes for the Instructor
 
-A list of any handy tips or other information for the instructor.
+* Note 1
+* Note 2
 
-_For example:_
-
-*   Participants may need to download the TwentySixteen theme before beginning
+> A list of any handy tips or other information for the instructor.
+>
+> _For example:_
+>
+> *   Participants may need to download the TwentySixteen theme before beginning
 
 ## Have You Thought About...?
 
-What could present challenges to delivering this lesson? Is there anything that can be done in advance to prepare for those challenges?
+* Challenge 1
+* Challenge 2
 
-_For example:_
-
-*  What if there’s no internet available?
-*  What if there’s no projector available?
-*  What if a participant doesn’t has a WordPress site to work with?
-*  What if there aren’t enough computers for everyone?
-*  What if no one has the prerequisite skills? What if there are different opinions about the topic?
+> What could present challenges to delivering this lesson? Is there anything that can be done in advance to prepare for those challenges?
+>
+> _For example:_
+>
+> *  What if there’s no internet available?
+> *  What if there’s no projector available?
+> *  What if a participant doesn’t has a WordPress site to work with?
+> *  What if there aren’t enough computers for everyone?
+> *  What if no one has the prerequisite skills? What if there are different opinions about the topic?
 
 ## Lesson Overview
 
-The plan of the lesson. Outline form works well.
+* First do this
+* Then move on to this
+* Finish with this
 
-_For example:_
-
-* Talk about what a theme is
-* Demonstrate how to install and activate a theme
-* Practice exercises to have participants find and install a theme on their own site
+> The plan for the lesson. Outline form works well.
+>
+> _For example:_
+>
+> * Talk about what a theme is
+> * Demonstrate how to install and activate a theme
+> * Practice exercises to have participants find and install a theme on their own site
 
 ## Exercises
-
-These are short or specific activities that help participants practice certain components of the lesson. They should not be fully scripted exercises, but rather something that participants could do on their own. For example, you can create an exercise based on one step of the Example Lesson.
-
-_For example:_
 
 **Exercise name**
 
@@ -122,11 +138,9 @@ Short description of what the exercise does and what skills or knowledge it rein
 *   Short point or step of the exercise
 *   And another one
 
+> These are short or specific activities that help participants practice certain components of the lesson. They should not be fully scripted exercises, but rather something that participants could do on their own. For example, you can create an exercise based on one step of the Example Lesson.
+
 ## Assessment
-
-A few questions to ask participants to evaluate their retention of the material presented.
-
-_For example:_
 
 **Write out the question.**
 
@@ -137,9 +151,19 @@ _For example:_
 
 **Answer:** 3\. Correct answer
 
+> A few questions to ask participants to evaluate their retention of the material presented. They should be a measure of whether the objectives were reached. Consider having a question for each objective.
+
 ## Additional Resources
 
-An optional section which can contain a list of resources that the instructor can use to get more information on the topic.
+* Resource 1
+* Resource 2
+
+> An optional section which can contain a list of resources that the instructor can use to get more information on the topic.
+>
+> _For example:_
+>
+> * Link to information on the Codex
+> * Theme Review Team's Handbook
 
 _For example:_
 
@@ -148,8 +172,12 @@ _For example:_
 
 ## Example Lesson
 
-An example of how the lesson plan can be implemented. Written in script form as one possible way an instructor might use this lesson plan at an event, with screenshots and instructions if necessary.
+> An example of how the lesson plan can be implemented. Written in script form as one possible way an instructor might use this lesson plan at an event, with screenshots and instructions if necessary.
 
 ### Section Heading for Example Lesson
 
-You will likely need to break the Example Lesson down into multiple sections.
+> You will likely need to break the Example Lesson down into multiple sections.
+
+### Lesson Wrap Up
+
+![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
