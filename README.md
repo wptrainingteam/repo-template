@@ -131,6 +131,7 @@ Participants will get the most from this lesson if they have familiarity with:
 
 ## Exercises
 
+
 **Exercise name**
 
 Short description of what the exercise does and what skills or knowledge it reinforces.
