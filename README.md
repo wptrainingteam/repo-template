@@ -165,11 +165,6 @@ Short description of what the exercise does and what skills or knowledge it rein
 > * Link to information on the Codex
 > * Theme Review Team's Handbook
 
-_For example:_
-
-* Link to information on the Codex
-* Theme Review Team's Handbook
-
 ## Example Lesson
 
 > An example of how the lesson plan can be implemented. Written in script form as one possible way an instructor might use this lesson plan at an event, with screenshots and instructions if necessary.
