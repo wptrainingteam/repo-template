@@ -100,7 +100,7 @@ Participants will get the most from this lesson if they have familiarity with:
 >
 > *  Participants may need to download the TwentySixteen theme before beginning
 > *  What to do if there’s no projector or internet available
-> *  What to do if a participant doesn’t have the correct set up
+> *  What to do if a participant doesn’t have the necessary set up
 > *  How to handle different opinions about the topic
 
 ## Lesson Outline
