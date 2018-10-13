@@ -98,22 +98,10 @@ Participants will get the most from this lesson if they have familiarity with:
 >
 > _For example:_
 >
-> *   Participants may need to download the TwentySixteen theme before beginning
-
-## Have You Thought About...?
-
-* Challenge 1
-* Challenge 2
-
-> What could present challenges to delivering this lesson? Is there anything that can be done in advance to prepare for those challenges?
->
-> _For example:_
->
-> *  What if there’s no internet available?
-> *  What if there’s no projector available?
-> *  What if a participant doesn’t has a WordPress site to work with?
-> *  What if there aren’t enough computers for everyone?
-> *  What if no one has the prerequisite skills? What if there are different opinions about the topic?
+> *  Participants may need to download the TwentySixteen theme before beginning
+> *  What to do if there’s no projector or internet available
+> *  What to do if a participant doesn’t have the necessary set up
+> *  How to handle different opinions about the topic
 
 ## Lesson Outline
 
