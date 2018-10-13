@@ -115,7 +115,7 @@ Participants will get the most from this lesson if they have familiarity with:
 > *  What if there aren’t enough computers for everyone?
 > *  What if no one has the prerequisite skills? What if there are different opinions about the topic?
 
-## Lesson Overview
+## Lesson Outline
 
 * First do this
 * Then move on to this
