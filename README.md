@@ -76,6 +76,10 @@ Participants will get the most from this lesson if they have familiarity with:
 > *   Do you want to makes changes to your theme yourself?
 > *   Do you know how to write CSS?
 
+## Slides
+
+*   [Slides](https://wptrainingteam.github.io/lesson-plans/repo-name/slides/) (files included in this repo)
+
 ## Materials Needed
 
 * Item 1
@@ -87,7 +91,6 @@ Participants will get the most from this lesson if they have familiarity with:
 >
 > *   A local install of WordPress
 > *   The files for the TwentySixteen theme
-> *   [Slides](https://rawgit.com/wptrainingteam/repo-name/dev/slides/index.html) (included in this repo)
 
 ## Notes for the Instructor
 
