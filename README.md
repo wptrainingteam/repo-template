@@ -1,6 +1,6 @@
 # Repo Structure and Lesson Plan Template
 
-> Please remove all blockquote comments such as this before publishing.
+> <span style="color:red">Please remove all blockquote comments such as this before publishing.</span>
 
 ## Description
 
@@ -13,44 +13,47 @@ After completing this lesson, participants will be able to:
 * Objective 1
 * Objective 2
 
-> It’s required that you include a bulleted list of objective(s) for each lesson plan. Objectives should be worded as actions that the participant can do once they’ve finished. See [Bloom's Taxonomy of Action Verbs](http://www.fresnostate.edu/academics/oie/documents/assesments/Blooms%20Level.pdf) (PDF) as a reference. Avoid using words like "know," "understand," "be introduced to," etc.
+> It’s required that you include a bulleted list of objective(s) for each lesson plan. Objectives should be worded as actions that the participant can do once they’ve finished. See [Bloom's Taxonomy of Action Verbs](http://www.fresnostate.edu/academics/oie/documents/assesments/Blooms%20Level.pdf) (PDF) as a reference. Avoid using words like "know," "understand," "be introduced to," etc. There should be one assement item for each objective (see below).
 
 ## Target Audience
 
-Who is this lesson intended for? What interests/skills would they bring? Choose all that apply.
+Who is this lesson intended for? What interests/skills would they bring? Put an "x" in the brackets for all that apply.
 
 * [ ] Users
 * [ ] Designers
 * [ ] Developers
 * [ ] Speakers
-* [ ] All
 
 ## Experience Level
 
-How much experience would a participant need to get the most from this lesson?
+How much experience would a participant need to get the most from this lesson? Put an "x" in the brackets for all that apply.
 
 * [ ] Beginner
 * [ ] Intermediate
 * [ ] Advanced
-* [ ] Any
 
 ## Type of Instruction
 
-Which strategies will be used for this lesson plan? Choose all that apply.
+Which strategies will be used for this lesson plan? Put an "x" in the brackets for all that apply.
 
 * [ ] Demonstration
 * [ ] Discussion
 * [ ] Exercises
 * [ ] Feedback
 * [ ] Lecture (Presentation)
+* [ ] Slides
 * [ ] Show & Tell
 * [ ] Tutorial
 
 ## Time Estimate (Duration)
 
-How long will it take to teach this lesson (in minutes)?
+How long will it take to present this lesson? Put an "x" in the brackets for the one that applies.
 
-____ minutes
+* [ ] 1 hour or less
+* [ ] 2-4 hours (half-day)
+* [ ] 5-8 hours (full-day)
+* [ ] 2 days
+* [ ] 3 days or more
 
 ## Prerequisite Skills
 
@@ -78,6 +81,8 @@ Participants will get the most from this lesson if they have familiarity with:
 
 ## Slides
 
+> Change the `/repo-name/` in the link to match the URL name of this repo.
+
 *   [Slides](https://wptrainingteam.github.io/lesson-plans/repo-name/slides/) (files included in this repo)
 
 ## Materials Needed
@@ -85,19 +90,19 @@ Participants will get the most from this lesson if they have familiarity with:
 * Item 1
 * Item 2
 
-> A list of files, resources, equipment, or other materials the instructor will need to teach the lesson.
+> A list of files, resources, equipment, or other materials the presenter will need for the lesson.
 >
 > _For example:_
 >
 > *   A local install of WordPress
 > *   The files for the TwentySixteen theme
 
-## Notes for the Instructor
+## Notes for the Presenter
 
 * Note 1
 * Note 2
 
-> A list of any handy tips or other information for the instructor.
+> A list of any handy tips or other information for the presenter.
 >
 > _For example:_
 >
@@ -133,6 +138,8 @@ Short description of what the exercise does and what skills or knowledge it rein
 
 ## Assessment
 
+There should be one assement item (or more) for each objective listed above. Each assessment item should support an objective; there should be none that don't.
+
 **Write out the question.**
 
 1.  Option
@@ -149,7 +156,7 @@ Short description of what the exercise does and what skills or knowledge it rein
 * Resource 1
 * Resource 2
 
-> An optional section which can contain a list of resources that the instructor can use to get more information on the topic.
+> An optional section which can contain a list of resources that the presenter can use to get more information on the topic.
 >
 > _For example:_
 >
@@ -158,7 +165,7 @@ Short description of what the exercise does and what skills or knowledge it rein
 
 ## Example Lesson
 
-> An example of how the lesson plan can be implemented. Written in script form as one possible way an instructor might use this lesson plan at an event, with screenshots and instructions if necessary.
+> An example of how the lesson plan can be implemented. Written in script form as one possible way an presenter might use this lesson plan at an event, with screenshots and instructions if necessary.
 
 ### Section Heading for Example Lesson
 
@@ -166,4 +173,4 @@ Short description of what the exercise does and what skills or knowledge it rein
 
 ### Lesson Wrap Up
 
-![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
+![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the [Exercises](#Exerciess) and [Assessment](#Assessment) outlined above.
