@@ -19,10 +19,12 @@ After completing this lesson, participants will be able to:
 
 Who is this lesson intended for? What interests/skills would they bring? Put an "x" in the brackets for all that apply.
 
-* [ ] Users
+* [ ] Users / Content Writers
 * [ ] Designers
 * [ ] Developers
 * [ ] Speakers
+* [ ] Organizers
+* [ ] Kids
 
 ## Experience Level
 
