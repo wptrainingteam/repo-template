@@ -175,4 +175,4 @@ There should be one assement item (or more) for each objective listed above. Eac
 
 ### Lesson Wrap Up
 
-![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the [Exercises](#Exerciess) and [Assessment](#Assessment) outlined above.
+![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the [Exercises](#Exercises) and [Assessment](#Assessment) outlined above.
