@@ -86,7 +86,7 @@ Caption is visible only in the list mode. Don’t forget to also specify present
 Badge with “Fork me on GitHub” link (or any other call to action) is marked with `badge` element.
 
 	<footer class="badge">
-		<a href="…">Fork me on Github</a>
+		<a href="…">Fork me on GitHub</a>
 	</footer>
 
 Badge is visible only in the list mode.
@@ -132,7 +132,7 @@ Slide type `clear` could also hide slide number.
 
 ### Types
 
-Types are changing slide’s look. You can set type by adding class to the main `slide`. There are few built-in types available in the theme, you could also describe custom types for each presention or add it to your theme.
+Types are changing slide’s look. You can set type by adding class to the main `slide`. There are few built-in types available in the theme, you could also describe custom types for each presentation or add it to your theme.
 
 #### White
 
@@ -305,7 +305,7 @@ If you want to add lines numbers use next construction:
 		<code>}<code>
 	</pre>
 
-When neccessary emphasize that code is commented, you need to use span element with `comment` class;
+When necessary emphasize that code is commented, you need to use span element with `comment` class;
 If you want to color part of code, wrap this part with `mark` to add yellow background and `mark` with `important` class to add red background;
 
 	<pre><code>function <mark>action()</mark> {
@@ -391,7 +391,7 @@ You can also combine classes for location in corners:
 
 #### Notes
 
-When neccessary to add some notes for slide, you may use `footer` class, that hide your notes at all time and show them when you hover to slide:
+When necessary to add some notes for slide, you may use `footer` class, that hide your notes at all time and show them when you hover to slide:
 
 	<section class="slide">
 		<p>Retro meh brunch aesthetic.</p>
